@@ -1,0 +1,22 @@
+:root {
+  /* 🎨 Paleta de Cores */
+  --color-background-page: #0f0f14;
+  --color-background-card: #1a1a22;
+  --color-text: #f1f1f1;
+
+  --color-gradient-primary: #7c3aed;
+  --color-gradient-secondary: #00c896;
+
+  --color-input-background: #14141b;
+  --color-input-border: #2a2a35;
+
+  /* 📐 Geometria */
+  --radius-small: 8px;
+  --radius-large: 20px;
+
+  --spacing-unit: 16px;
+
+  /* 🎞️ Animação */
+  --transition-speed: 0.3s;
+  --transition-ease: ease-in-out;
+}
